@@ -24,6 +24,39 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+<img width="1069" height="735" alt="image" src="https://github.com/user-attachments/assets/0a6d566b-9fb6-4518-9396-2aa8be27913a" />
+
+<img width="1069" height="735" alt="image" src="https://github.com/user-attachments/assets/f4bfa823-588b-45a6-9909-51d27e29aba3" />
+
+<img width="1052" height="786" alt="image" src="https://github.com/user-attachments/assets/3ca7295b-3cb2-404d-b327-9000d76da5ad" />
+
+<img width="1052" height="786" alt="image" src="https://github.com/user-attachments/assets/50a44acf-aad6-4a27-97af-1e3e5408e1a0" />
+
+<img width="1022" height="725" alt="image" src="https://github.com/user-attachments/assets/d2671ce8-4873-4792-8ee4-6a0b6353246a" />
+
+<img width="1022" height="725" alt="image" src="https://github.com/user-attachments/assets/f8ba71ec-a41e-4f19-a81d-c7764beee5ee" />
+
+<img width="1025" height="731" alt="image" src="https://github.com/user-attachments/assets/3c55d642-1c4e-4954-bf28-402fe93ddc01" />
+
+
+<img width="1045" height="735" alt="image" src="https://github.com/user-attachments/assets/8dce6beb-0088-4ece-96a9-3ca179643b93" />
+
+<img width="1036" height="737" alt="image" src="https://github.com/user-attachments/assets/0bb7471a-cbf7-43d2-8272-685580aba0d1" />
+
+<img width="1036" height="737" alt="image" src="https://github.com/user-attachments/assets/e1e8ad13-a029-4d47-bbae-88a37156e0cb" />
+
+<img width="1034" height="829" alt="image" src="https://github.com/user-attachments/assets/299052c7-54ca-487d-90cf-9a31e91ddda0" />
+
+<img width="1034" height="829" alt="image" src="https://github.com/user-attachments/assets/624ff9d2-97e8-4b9d-9760-662930c85aa2" />
+
+
+
+
+
+
+
+
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+hus perform Feature Scaling and Feature Selection process and save the data to a file successfully.
